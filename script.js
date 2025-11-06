@@ -39903,7 +39903,7 @@
  "mode": "push",
  "height": 40,
  "class": "IconButton",
- "click": "click": "window.location.href = 'https://website-virtual-tour-laboratorium.vercel.app/';",
+ "click": "window.location.href = 'https://website-virtual-tour-laboratorium.vercel.app/';",
  "horizontalAlign": "center",
  "paddingTop": 0,
  "cursor": "hand"
